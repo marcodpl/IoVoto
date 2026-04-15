@@ -1,0 +1,3 @@
+In questa cartella è salvato il codice destinato all'Autorità Elettorale (AE).
+Il suo compito non è di generare token, ma di validarli.
+Ha dentro un nullifier e un commitment.
